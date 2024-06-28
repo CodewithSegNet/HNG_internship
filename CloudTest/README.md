@@ -13,6 +13,7 @@
 - Server Configuration: Configure the chosen web server (NGINX or Apache) on your cloud instance to serve your website content.
 
 
+
 :scroll:Requirements:
 
 * Cloud Platform: AWS EC2 or Azure or GCP (your choice)
@@ -22,10 +23,16 @@
 * Static Website: A ready-to-deploy static website project (HTML, CSS, Javascript) which includes your Name, username and your email.
 
 
+
 :memo:Acceptance Criteria:
 
 * Successful Deployment: Your static website is accessible through a public IP address or a domain name after deployment. The IP address shouldn’t include ports asides port 80.
 
 * Web Server Configuration: The chosen web server (NGINX or Apache) is configured correctly to serve your website content.
+
+
+## Contributor:
+
+- [Olusegun Emmanuel](https://github.com/CodewithSegNet)
 
 
