@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+
+body{
+  display: grid;
+  place-items: center;
+  font-family: Arial, sans-serif;
+}
+
+ 
+a{
+    color: blue;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.4s ease-in-out;
+  }
+
+a:hover{
+  color: red;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
